@@ -47,5 +47,5 @@ The project explores emerging AI trends such as **Edge AI**, **AI-IoT integratio
 ---
 
 ## 📬 Author
-**Longoli Joseph Eyanae**  
+**Elijah Ngule**  
 Power Learn Project – AI Software Engineering Track  
